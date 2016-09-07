@@ -66,4 +66,4 @@ Bomb
 #Dependence  
 Butter Knife  
 CircleImageView  
-各大App Market下载地址:![腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
+各大App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
