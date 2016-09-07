@@ -17,7 +17,7 @@
 下拉刷新及云同步界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192417.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192359.jpg)  
-用户个人中心及修改信息popupWindow界面  
+用户个人中心界面及修改信息popupWindow界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185754.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185819.jpg)  
 用户修改头像界面(图片采用云存储)  
@@ -27,7 +27,7 @@
 #Dependence
 Butter Knife  
 CircleImageView  
-Universal-Image-Loader 
+Universal-Image-Loader   
 EventBus  
 Bomb  
 
