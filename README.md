@@ -24,6 +24,10 @@
 用户修改头像界面(图片采用云存储)  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185754.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185911.jpg)  
+图片选择器及裁剪界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-215202.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-222333.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-222411.jpg)  
 
 #Dependence
 Butter Knife  
