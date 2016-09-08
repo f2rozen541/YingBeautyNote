@@ -14,6 +14,7 @@
 ##应用截图
 登陆与注册界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-191614.jpg) 
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192227.jpg) 
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-205446.jpg)  
 下拉刷新及云同步界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192417.jpg)
