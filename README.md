@@ -37,7 +37,7 @@ Universal-Image-Loader
 EventBus  
 Bomb  
 
-
+该版本对应的博客介绍：http://blog.csdn.net/htq__/article/details/52463442
 
 #V1.0
 ##功能特色：
