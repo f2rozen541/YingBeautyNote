@@ -71,10 +71,11 @@ Bomb
 #Dependence  
 Butter Knife  
 CircleImageView  
+各大App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
+
 
 #相关链接
-HQ_QQ：一款高仿腾讯QQ的IM通讯App，界面几乎与腾讯QQ一模一样 [https://github.com/HuTianQi/HTQ_QQ](https://github.com/HuTianQi/HTQ_QQ)  
-CoolWeather:一款天气查询App [https://github.com/HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather)
+【HQ_QQ：一款高仿腾讯QQ的IM通讯App，界面几乎与腾讯QQ一模一样】 [https://github.com/HuTianQi/HTQ_QQ](https://github.com/HuTianQi/HTQ_QQ)  
+【CoolWeather:一款天气查询App】 [https://github.com/HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather)
 
 
-各大App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
