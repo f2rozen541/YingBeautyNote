@@ -12,12 +12,12 @@
 
 ##应用截图
 保存草稿界面  
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121625.jpg)  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121625.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-120911.jpg)  
 设置字体大小界面  
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-120955.jpg)  
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121004.jpg)  
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121012.jpg)  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-120955.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121004.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121012.jpg)
 设置闹钟提醒界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121025.jpg)  
 添加记录至桌面界面  
