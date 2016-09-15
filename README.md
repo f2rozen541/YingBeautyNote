@@ -2,6 +2,37 @@
 
 一款类似印象笔记的App，随时记录您的生活点滴，但时目前功能还没达到印象笔记那样，但是本人后期将通过版本迭代的方式来逐渐完善该App达到印象笔记的全部功能，欢迎大家follow，star与fork。
 
+#v2.1.0
+##功能特色：相对v2.0版本主要增加以下几个功能：
+草稿保存：当用户新添加一条笔记，但没点击保存按钮，直接按返回时会提醒用户是否保存为草稿  
+字体大小设置：在用户编辑一条笔记时，提供字体大小设置功能，让用户选择字体大小  
+闹钟提醒功能：用户可以将待办事项添加闹钟提醒，当到达指定日期指定时间闹钟会响铃提醒且会弹出待办事项的详情，如：待办事项为：给女朋友买礼物，待办日期为：2016/9/15 20：00，那么当达到2016/9/15 20：00时，用户手机闹钟会响铃提醒且会弹出待办事项的详情：给女朋友买礼物  
+添加到桌面：可以将一些重要信息直接添加到桌面快捷方式，便于直接打开浏览  
+分享笔记：可以将自己的一些比较好的笔记直接通过微信，短信等方式分享  
+
+##应用截图
+保存草稿界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121625.jpg)  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-120911.jpg)  
+设置字体大小界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-120955.jpg)  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121004.jpg)  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121012.jpg)  
+设置闹钟提醒界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121025.jpg)  
+添加记录至桌面界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121128.jpg)  
+
+#Dependence
+Butter Knife  
+CircleImageView  
+Universal-Image-Loader   
+EventBus  
+Bomb  
+okHttp  
+clans:fab  
+
+
 
 #V2.0
 ##功能特色：相对v1版本增加以下几个功能  
@@ -36,6 +67,7 @@ CircleImageView
 Universal-Image-Loader   
 EventBus  
 Bomb  
+okHttp  
 
 该版本对应的博客介绍：http://blog.csdn.net/htq__/article/details/52463442
 
