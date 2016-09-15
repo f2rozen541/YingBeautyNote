@@ -14,6 +14,7 @@
 ##应用截图
 登陆与注册界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-191614.jpg) 
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192227.jpg) 
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-205446.jpg)  
 下拉刷新及云同步界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-192417.jpg)
@@ -24,6 +25,10 @@
 用户修改头像界面(图片采用云存储)  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185754.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-185911.jpg)  
+图片选择器及裁剪界面  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-215202.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-222333.jpg)
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2/S60907-222411.jpg)  
 
 #Dependence
 Butter Knife  
@@ -32,7 +37,7 @@ Universal-Image-Loader
 EventBus  
 Bomb  
 
-
+该版本对应的博客介绍：http://blog.csdn.net/htq__/article/details/52463442
 
 #V1.0
 ##功能特色：
@@ -67,3 +72,10 @@ Bomb
 Butter Knife  
 CircleImageView  
 各大App Market下载地址:[腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.htq.baidu.com.htq.baidu.coolnote)
+
+
+#相关链接
+【HQ_QQ：一款高仿腾讯QQ的IM通讯App，界面几乎与腾讯QQ一模一样】 [https://github.com/HuTianQi/HTQ_QQ](https://github.com/HuTianQi/HTQ_QQ)  
+【CoolWeather:一款天气查询App】 [https://github.com/HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather)
+
+
