@@ -21,10 +21,10 @@
 设置闹钟提醒界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121025.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-124953.jpg)  
-添加记录至桌面界面  
-![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121128.jpg)  
-分享笔记界面  
+添加记录至桌面与分享笔记界面    
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121128.jpg)
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot/S60812-214133.jpg)  
+
 #Dependence
 Butter Knife  
 CircleImageView  
