@@ -10,6 +10,10 @@
 添加到桌面：可以将一些重要信息直接添加到桌面快捷方式，便于直接打开浏览  
 分享笔记：可以将自己的一些比较好的笔记直接通过微信，短信等方式分享  
 
+
+##可扫码二维码直接下载  
+![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/%E6%89%AB%E7%A0%81%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD.jpg)  
+
 ##应用截图
 保存草稿界面  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/BeautyNote_Screenshot_v2.1.0/S60915-121625.jpg)
