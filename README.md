@@ -11,7 +11,7 @@
 分享笔记：可以将自己的一些比较好的笔记直接通过微信，短信等方式分享  
 
 
-##可扫码二维码直接下载  
+##可扫码直接下载  
 ![image](https://github.com/HuTianQi/YingBeautyNote/blob/master/%E6%89%AB%E7%A0%81%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD.jpg)  
 
 ##应用截图
