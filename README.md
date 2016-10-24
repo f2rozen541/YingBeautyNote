@@ -1,3 +1,4 @@
+hello Test edited by wangkun
 # YingBeautyNote
 
 一款类似印象笔记的App，随时记录您的生活点滴，但时目前功能还没达到印象笔记那样，但是本人后期将通过版本迭代的方式来逐渐完善该App达到印象笔记的全部功能，欢迎大家follow，star与fork。
